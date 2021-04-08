@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { VscEdit, VscChromeClose } from "react-icons/vsc";
 
 const List = ({ items, removeItem, editItem }) => {
